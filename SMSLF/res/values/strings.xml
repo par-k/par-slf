@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMSLF</string>
+    <string name="phoneNumberRegister">09358700622</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnRequestCode">درخواست کد</string>
+    <string name="btnRegisterCode">ثبت</string>
+    <string name="btnRemove">حذف</string>
+    <string name="btnRequest">مکان یابی</string>
+    <string name="edtEnterCode">کد فعالسازی</string>
+    <string name="edtName">نام</string>
+    <string name="edtCode">کد را اینجا وارد کنید</string>
+    <string name="edtPhoneNumber">شماره تلفن دستگاه</string>
+    <string name="edtCellphoneNumber">شماره</string>
+    <string name="edtRepeatCellphoneNumber">تکرار شماره</string>
+    <string name="errWrongCode">کد وارد شده اشتباه است</string>
+    <string name="btnRegisterName">ثبت</string>
+    <string name="errNameEmpty">فیلد نام خالی است</string>
+    <string name="errPhoneNumberEmpty">فیلد شماره دستگاه خالی است</string>
+    <string name="errCodeEmpty">فیلد کد خالی است</string>
+    <string name="errPhoneNumber11"> شماره دستگاه باید 11 رقم باشد</string>
+    <string name="errCellphoneNumberEmpty">فیلد شماره خالی است</string>
+    <string name="errRepeatCellphoneNumberEmpty">فیلد تکرار شماره خالی است</string>
+    <string name="errNotEqual">فیلدهای شماره و تکرار شماره یکسان نیستند</string>
+    <string name="errNumberRegisterdBefore">این شماره قبلا ثبت شده است</string>
+    <string name="errGPSOff">GPS is OFF</string>
+    <string name="errGPSUnable">GPS Error</string>
+    <string name="errGooglePlayServices">Google Play Services Error</string>
+    <string name="errGoogleLocationService">Google Location Service Error</string>
+    <string name="errGoogleServiceDisabledDestination">No Address</string>
+    <string name="errSelectAtLeastOne">هیچ کارمندی انتخاب نشده است</string>
+    <string name="alertNoResult">موردی یافت نشد!</string>
+    <string name="messageGettingAddressStarted">بازیابی آدرس ها آغاز شد</string>
+    <string name="messageRequestSent">درخواست ارسال شد</string>
+    <string name="messageRequestDeliverd">درخواست تحویل داده شد</string>
+    <string name="messageRequestNotSent">خطا:درخواست ارسال نشد</string>
+    <string name="messageRequestNotDeliverd">خطا:درخواست تحویل داده نشد</string>
+    <string name="alertResultNumbers">\nتعداد رکوردهای بازیابی شده:</string>
+    <string name="alertNoInternetAccess">\nاتصال اینترنت قطع است!\n</string>
+    <string name="alertTitle">توجه</string>
+    <string name="Sat">شنبه</string>
+    <string name="Sun">یکشنبه</string>
+    <string name="Week_" />
+    <string name="Mon">دوشنبه</string>
+    <string name="Tue">سه شنبه</string>
+    <string name="Wed">چهارشنبه</string>
+    <string name="Thr">پنچشنبه</string>
+    <string name="Fri">جمعه</string>
+    <string name="Ordibehesht">اردیبهشت</string>
+    <string name="Farvardin">فروردین</string>
+    <string name="Khordad">خرداد</string>
+    <string name="Tir">تیر</string>
+    <string name="Mordad">مرداد</string>
+    <string name="Shahrivar">شهریور</string>
+    <string name="Mehr">مهر</string>
+    <string name="Aban">آبان</string>
+    <string name="Azar">آذر</string>
+    <string name="Dey">دی</string>
+    <string name="Bahman">بهمن</string>
+    <string name="Esfand">اسفند</string>
+
+    <string-array name="array_main_page_more">
+        <item>اضافه کردن شماره</item>
+        <item>حذف شماره</item>
+        <item>بازیابی آدرس ها</item>
+        <item>پشتیبان گیری</item>
+    </string-array>
+
+</resources>
